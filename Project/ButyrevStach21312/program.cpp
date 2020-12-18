@@ -1,4 +1,5 @@
 //main program
+//version 1.0
 #include "feature.h"
 #include <iostream>
 using namespace std;
